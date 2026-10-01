@@ -248,8 +248,4 @@ Projeto desenvolvido para fins de estudo e portfólio, com foco em **Data Analyt
 
 ---
 
-## Contato
 
-🔗 [LinkedIn](SEU_LINKEDIN)
-
-🔗 [GitHub](SEU_GITHUB)
